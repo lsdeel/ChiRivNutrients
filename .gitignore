@@ -1,0 +1,23 @@
+# untracked files and directories
+# data
+*.csv
+*.xlsx
+# vec files
+*.cpg
+*.dbf
+*.sbx
+*.sbn
+*.shp
+*.shx
+# ras files
+*.tiff
+*.tif
+# map file
+*.mxd
+# jupyter files
+*.ipynb_checkpoints
+# directories
+output/fig/
+output/gis/
+output/map
+
